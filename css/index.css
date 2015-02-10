@@ -1,24 +1,24 @@
 .media-box {
-	height:100%;
-	overflow:scroll;
-	padding-top:2px;
+    height: 100%;
+    overflow: scroll;
+    padding-top: 2px;
 }
 
 .media-object {
-	width:100px;
+    width: 100px;
 }
 
 .contact-section {
-	width:100%;
-	padding-left:10px;
+    width: 100%;
+    padding-left: 10px;
 }
 
 .contact-section > h3 {
-	margin:0 auto;
-	padding-bottom:10px;
+    margin: 0 auto;
+    padding-bottom: 10px;
 }
 
 #main-carousel {
-	max-width: 1000px;
-	margin: 0 auto;
+    max-width: 1000px;
+    margin: 0 auto;
 }
