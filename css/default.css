@@ -1,27 +1,28 @@
 body {
-	background-image: url(../imgs/bluebg.jpg);
-	padding-top: 70px;
+    background-image: url(../imgs/bluebg.jpg);
+    padding-top: 70px;
 }
 
 .navbar-header > .navbar-brand {
-	padding-left:20px;
+    padding-left: 20px;
 }
 
-.navbar-collapse > .nav > li > a,  .navbar-header > .navbar-brand{
-	color:white;
+.navbar-collapse > .nav > li > a,
+.navbar-header > .navbar-brand {
+    color: white;
 }
 
 #content-container {
-	width:85%;
-	height:100%;
-	background-color:white;
-	margin-bottom: 30px;
+    width: 85%;
+    height: 100%;
+    background-color: white;
+    margin-bottom: 30px;
 }
 
 #title {
-	padding-left:10px;
+    padding-left: 10px;
 }
 
 .row {
-	margin-bottom: 40px;
+    margin-bottom: 40px;
 }
